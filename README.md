@@ -4,7 +4,7 @@
 
 _Here you can find resources for the talk "Complexity is the gotcha of event-driven architecture"_
 
-## Potential of EDA
+## Part 1: Potential of EDA
 
 ### Static vs Evolutionary:
 - Static architectures anchor us, may slow us down, and can appear from nowhere.
@@ -20,7 +20,7 @@ _Here you can find resources for the talk "Complexity is the gotcha of event-dri
 
 ---
 
-## Manage complexity with guardrails
+## Part 2: Manage complexity with guardrails
 
 There are three guardrails that can help you manage complexity:
 
@@ -56,7 +56,7 @@ There are three guardrails that can help you manage complexity:
 
 ---
 
-## Biggest gotcha of them all
+## Part 3: Biggest gotcha of them all
 
 Regardless of what you do, you will hit this problem. The fact we take this saying way to literraly in EDA, that producers should not know about consumers. 
 This can lead to issues.
