@@ -5,7 +5,7 @@
 _Here you can find resources for the talk "Complexity is the gotcha of event-driven architecture"_
 
   * [Part 1: Potential of EDA](#part-1--potential-of-eda)
-    + [Static vs Evolutionary:](#static-vs-evolutionary)
+    + [Static vs Evolutionary](#static-vs-evolutionary)
     + [Links](#links)
   * [Part 2: Manage complexity with guardrails](#part-2--manage-complexity-with-guardrails)
     + [Behaviour first thinking](#behaviour-first-thinking)
@@ -15,7 +15,8 @@ _Here you can find resources for the talk "Complexity is the gotcha of event-dri
   * [Part 3: Biggest gotcha of them all](#part-3--biggest-gotcha-of-them-all)
     + [Producers should not know about consumers](#producers-should-not-know-about-consumers)
     + [Links](#links-2)
-- [Summary](#summary)
+  * [Summary](#summary)
+- [Extras](#extras)
   * [EDA Visuals](#eda-visuals)
   * [Want more?](#want-more-)
   * [EventCatalog v2](#eventcatalog-v2)
@@ -90,13 +91,15 @@ This can lead to issues.
 ### Links
 - Join [EventCatalog community](https://discord.com/invite/3rjaZMmrAm). I'm looking to build v2 of EventCatalog and help people document their EDA, but I can't do this on my own. Join the project let's fix the issue!
 
-# Summary
+## Summary
 
 - To get the full potenital of EDA you need to manage complexity.
 - Put guardrails in place to manage complexity over time.
 - Complexity comes in all shapes, there is no avoiding it, but you can manage it.
 
 ---
+
+# Extras
 
 ## EDA Visuals
 
