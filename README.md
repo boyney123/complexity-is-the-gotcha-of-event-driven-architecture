@@ -88,12 +88,11 @@ This can lead to issues.
 
 Want to learn more about EDA? Then you can [download my free book about EDA](https://eda-visuals.boyney.io/). Over 60 bite sized visuals to help you learn more about event-driven architecture.
 
-## Want more?
-
-Want to learn more, I have a [few more talks on my website](https://www.boyney.io/talks_ that can help you dive into EDA.
-
 ![image](https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture/assets/3268013/138a303f-48d9-4a3c-bbe6-f4b9c75651b9)
 
+## Want more?
+
+Want to learn more, I have a [few more talks on my website](https://www.boyney.io/talks) that can help you dive into EDA.
 
 
 <img width="610" alt="image" src="https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture/assets/3268013/91a0da5b-08c2-4379-bdc4-46a943bc2615">
