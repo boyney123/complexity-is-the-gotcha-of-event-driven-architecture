@@ -1,6 +1,3 @@
-# Complexity is the gotcha of event-driven architecture
----
-
 <img width="603" alt="image" src="https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture/assets/3268013/90508a06-604a-4956-ad42-b7b70b3514fe">
 
 ---
