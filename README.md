@@ -5,7 +5,7 @@
 _Here you can find resources for the talk "Complexity is the gotcha of event-driven architecture"_
 
   * [Part 1: Potential of EDA](#part-1--potential-of-eda)
-    + [Static vs Evolutionary:](#static-vs-evolutionary-)
+    + [Static vs Evolutionary:](#static-vs-evolutionary)
     + [Links](#links)
   * [Part 2: Manage complexity with guardrails](#part-2--manage-complexity-with-guardrails)
     + [Behaviour first thinking](#behaviour-first-thinking)
@@ -23,7 +23,7 @@ _Here you can find resources for the talk "Complexity is the gotcha of event-dri
 
 ## Part 1: Potential of EDA
 
-### Static vs Evolutionary:
+### Static vs Evolutionary
 - Static architectures anchor us, may slow us down, and can appear from nowhere.
 - Risk of static architectures as we face the **Project paradox**, this is where we make decisions up front without the knowledge we may need.
 - We can use EDA to defer decisions to later, with abstractions and a evolutionary architecture.
