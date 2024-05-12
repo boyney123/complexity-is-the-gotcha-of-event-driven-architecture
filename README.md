@@ -91,8 +91,18 @@ Want to learn more about EDA? Then you can [download my free book about EDA](htt
 
 Want to learn more, I have a [few more talks on my website](https://www.boyney.io/talks) that can help you dive into EDA.
 
-
 <img width="610" alt="image" src="https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture/assets/3268013/91a0da5b-08c2-4379-bdc4-46a943bc2615">
+
+## EventCatalog v2
+
+EventCatalog helps you document your event-driven architectures. 
+
+I am currently working on v2 with many more features, new framework, support for 1000s of events and much more. 
+
+EventCatalog v2 also comes with enterprise features and support. If this is something you are interested in [please get in contact](https://www.linkedin.com/in/david-boyne/), I would love to understand your problems and how EventCatalog may be able to help.
+
+![image](https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture/assets/3268013/b4c747a3-0d79-4b8e-be69-b09c04c30723)
+
 
 
 Reach out to me if you would like me to run this talk at your event.
