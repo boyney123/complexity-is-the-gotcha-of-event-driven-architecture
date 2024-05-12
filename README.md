@@ -2,7 +2,7 @@
 
 ---
 
-Here you can find resources for the talk "Complexity is the gotcha of event-driven architecture"
+_Here you can find resources for the talk "Complexity is the gotcha of event-driven architecture"_
 
 ## Potential of EDA
 
