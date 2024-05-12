@@ -4,6 +4,23 @@
 
 _Here you can find resources for the talk "Complexity is the gotcha of event-driven architecture"_
 
+  * [Part 1: Potential of EDA](#part-1--potential-of-eda)
+    + [Static vs Evolutionary:](#static-vs-evolutionary-)
+    + [Links](#links)
+  * [Part 2: Manage complexity with guardrails](#part-2--manage-complexity-with-guardrails)
+    + [Behaviour first thinking](#behaviour-first-thinking)
+    + [Event evolution strategy](#event-evolution-strategy)
+    + [Complexity with consumers](#complexity-with-consumers)
+    + [Links](#links-1)
+  * [Part 3: Biggest gotcha of them all](#part-3--biggest-gotcha-of-them-all)
+    + [Producers should not know about consumers](#producers-should-not-know-about-consumers)
+    + [Links](#links-2)
+- [Summary](#summary)
+  * [EDA Visuals](#eda-visuals)
+  * [Want more?](#want-more-)
+  * [EventCatalog v2](#eventcatalog-v2)
+    + [Enterprise support](#enterprise-support)
+
 ## Part 1: Potential of EDA
 
 ### Static vs Evolutionary:
@@ -99,7 +116,10 @@ EventCatalog helps you document your event-driven architectures.
 
 I am currently working on v2 with many more features, new framework, support for 1000s of events and much more. 
 
-EventCatalog v2 also comes with enterprise features and support. If this is something you are interested in [please get in contact](https://www.linkedin.com/in/david-boyne/), I would love to understand your problems and how EventCatalog may be able to help.
+### Enterprise support
+
+EventCatalog will support some core enterprise features soon. If you want to understand enterprise support with EventCatalog [please get in contact](https://www.linkedin.com/in/david-boyne/).
+
 
 ![image](https://github.com/boyney123/complexity-is-the-gotcha-of-event-driven-architecture/assets/3268013/b4c747a3-0d79-4b8e-be69-b09c04c30723)
 
